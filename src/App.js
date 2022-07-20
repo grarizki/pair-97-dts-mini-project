@@ -1,6 +1,6 @@
 import './App.css';
 import React from 'react';
-import Row from './components/Row';
+import Row from './components/Row/Row';
 import requests from './requests.js'
 
 function App() {
